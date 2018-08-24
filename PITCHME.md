@@ -1,15 +1,15 @@
-### Hello
+### Hello!!
 
 This is sample slide.
 
 ---
 
-### 2枚目のスライド
+### This is the second slide.
 
 ---
 
-### 3枚目のスライド
+### This is the third slide.
 
 +++ ?image=/NAT85_beachnosanset_TP_V.jpg&size=auto
 
-### おわり
+### Than you!!
